@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Productivity-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Productivity+Blocker-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 FocusMe Free Installer** — FocusMe is a productivity application for Windows and macOS that blocks distracting websites and applications during focused work sessions. Works without internet access, no account required. Full offline installation.
+**💻 FocusMe Free Installer** — FocusMe is a website and application blocker for Windows and macOS with scheduling, break timers, and a Pomodoro timer. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About FocusMe
 
-FocusMe is a productivity application for Windows and macOS that blocks distracting websites and applications during focused work sessions. Create block lists, set work schedules, use the Pomodoro timer, and enforce focus sessions with a tamper-proof mode that prevents bypassing blocks even when willpower fails. FocusMe is designed for people who struggle with digital distractions.
+FocusMe is a website and application blocker for Windows and macOS with scheduling, break timers, and a Pomodoro timer. It is designed to be difficult to bypass, with a locked mode that prevents disabling the blocker until a scheduled time.
 
 ---
 
 ## ❌ Problem: FocusMe is hard to access
 
-- **Commercial License** — Requires paid subscription
-- **Tamper-Proof Complexity** — Strong blocking mode difficult to disable even during legitimate needs
-- **Website Updates** — Occasionally needs updates as websites change their URLs
-- **Platform Coverage** — Mobile device blocking requires separate mobile app
+- **Paid Subscription** — Requires subscription for full cross-device features
+- **Difficult to Override** — Intentional anti-bypass measures can frustrate users in genuine emergencies
+- **Platform Coverage** — No mobile blocking included in desktop subscription
+- **Resource Usage** — Background service runs continuously monitoring app and browser usage
 
 ---
 
@@ -121,7 +121,7 @@ FocusMe is a productivity application for Windows and macOS that blocks distract
 
 ---
 
-**FocusMe Free Installer** — FocusMe is a productivity application for Windows and macOS that blocks distracting websites and applications during focused work sessions. Install without internet connection today!
+**FocusMe Free Installer** — FocusMe is a website and application blocker for Windows and macOS with scheduling, break timers, and a Pomodoro timer. Install without internet connection today!
 
 <div align="center">
 
